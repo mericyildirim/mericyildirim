@@ -1,6 +1,6 @@
 ![MasterHead](https://templates.simplified.co/thumb/289ef330-8f61-43a1-ac45-18e2e01b8e88.jpg)
 <h1 align="center">Hi 👋, I'm Meric Yildirim</h1>
-<h3 align="center">A passionate backend developer from Türkiye</h3>
+<h3 align="center">A passionate Mobil developer from Türkiye</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mericyildirim&label=Profile%20views&color=0e75b6&style=flat" alt="mericyildirim" /> </p>
