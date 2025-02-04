@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Flutter](https://github.com/mericyildirim/recruiting_website)
 
-- 📫 How to reach me **mericc1690@gmail.com**
+- 📫 How to reach me **meric.can.yildirim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
