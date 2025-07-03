@@ -1,8 +1,8 @@
 <div align="center">
-  
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="180"/>
 
   <h1>Hi there, I'm <strong>Meric Yildirim</strong> 👋</h1>
+  
   <h3>A passionate <span style="color:#00c4cc;">Mobile Developer</span> from Türkiye</h3>
 
   <p> Currently working on <strong>Giyin App </strong></p>
@@ -63,7 +63,7 @@
 
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Snake animation" />
 </div>
 
 ---
