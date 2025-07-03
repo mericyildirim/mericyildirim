@@ -54,7 +54,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mericyildirim&show_icons=true&theme=nightowl&hide_border=true&count_private=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mericyildirim&theme=nightowl&hide_border=true"/>
 
 </div>
