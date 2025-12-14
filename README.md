@@ -5,7 +5,7 @@
   
   <h3>A passionate <span style="color:#00c4cc;">Mobile Developer</span> from Türkiye</h3>
 
-  <p> Currently working on <strong>Giyin App </strong></p>
+  <p> Currently working on <strong>Mobile apps</strong></p>
   <p> Reach me at: <a href="mailto:meric.can.yildirim@gmail.com">meric.can.yildirim@gmail.com</a></p>
 
   <br/>
@@ -38,13 +38,10 @@
 ![Riverpod](https://img.shields.io/badge/Riverpod-42A5F5?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
