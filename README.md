@@ -5,7 +5,7 @@
   
   <h3>A passionate Mobile Developer from Türkiye</h3>
 
-  <p>Currently working on <strong>Mobile apps</strong></p>
+  <p>Currently working on <strong>Spring Framework</strong></p>
   <p>Reach me at: <a href="mailto:meric.can.yildirim@gmail.com">meric.can.yildirim@gmail.com</a></p>
 
   <br/>
